@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/jobs/page": "app/jobs/page.js",
+  "/community/page": "app/community/page.js",
+  "/messages/page": "app/messages/page.js",
+  "/learning/page": "app/learning/page.js",
+  "/events/page": "app/events/page.js",
+  "/page": "app/page.js",
+  "/network/page": "app/network/page.js",
+  "/notifications/page": "app/notifications/page.js",
+  "/tech-news/page": "app/tech-news/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/network/my-pages/page": "app/network/my-pages/page.js"
+}
